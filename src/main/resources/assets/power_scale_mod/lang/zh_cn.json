@@ -1,0 +1,10 @@
+{
+  "key.categories.power_scale_mod": "力量刻度",
+  "key.power_scale_mod.increase_scale": "提高力量刻度",
+  "key.power_scale_mod.decrease_scale": "降低力量刻度",
+  "key.power_scale_mod.open_attribute_screen": "配置力量刻度属性",
+  "message.power_scale_mod.scale_changed": "力量刻度: %s",
+  "screen.power_scale_mod.attribute_selection": "力量刻度属性",
+  "screen.power_scale_mod.attribute_selection.hint": "点击切换哪些属性受力量刻度影响",
+  "itemGroup.power_scale_mod": "力量刻度"
+}

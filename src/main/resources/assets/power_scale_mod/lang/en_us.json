@@ -1,0 +1,10 @@
+{
+  "key.categories.power_scale_mod": "Power Scale",
+  "key.power_scale_mod.increase_scale": "Increase Power Scale",
+  "key.power_scale_mod.decrease_scale": "Decrease Power Scale",
+  "key.power_scale_mod.open_attribute_screen": "Configure Power Scale Attributes",
+  "message.power_scale_mod.scale_changed": "Power Scale: %s",
+  "screen.power_scale_mod.attribute_selection": "Power Scale Attributes",
+  "screen.power_scale_mod.attribute_selection.hint": "Click to toggle which attributes are affected by the power scale",
+  "itemGroup.power_scale_mod": "Power Scale"
+}
