@@ -1,25 +1,12 @@
+# Power Scale Meter
+Ever played a modpack and you are walking too fast to actually get to places or playing with a friend and accidentally kill them in one punch?
+> Add a power scale with 5 notches
+> Scale 5 is the normal player stats
+> Scale 4 is the 4/5 of player stats
+> Scale 3 is the 3/5 of player stats
+> Scale 2 is the 2/5 of player stats
+> Scale 1 is the 1/5 of player stats
+> 2 keybinds (- to decrease and + to increase)
 
-Installation information
-=======
-
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+# Config
+> For the sake of all the mods I added a config screen where you can choose and remove certain attributes that you want or don't want to be changed (Yes it works with modded attributes too!)
