@@ -14,6 +14,7 @@ public class ModAttachments {
     private static final DeferredRegister<AttachmentType<?>> ATTACHMENTS =
             DeferredRegister.create(NeoForgeRegistries.ATTACHMENT_TYPES, PowerScaleMod.MODID);
 
+
     static final List<String> DEFAULT_ATTRIBUTE_IDS = List.of(
             "minecraft:generic.movement_speed",
             "minecraft:generic.attack_damage",
